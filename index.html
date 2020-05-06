@@ -8,9 +8,9 @@ title: Home
 <h1>Categories<h1>
 
 <ul>
-  {% for categories in site.categories %}
+  {% for category in site.categories %}
     <li>
-      <h2>{{ categories.name }}</h2>
+      <h2>{{ category.name }}</h2>
     </li>
   {% endfor %}
 </ul>
