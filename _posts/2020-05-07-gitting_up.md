@@ -1,6 +1,7 @@
 ---
 layout: post
 author: Shin
+location: Lausanne
 ---
 When it comes to setting up a new website, I decided to go with [GitHub Page](https://pages.github.com), a service extension native to the version controlling system.
 
