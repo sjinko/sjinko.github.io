@@ -4,6 +4,8 @@ title: Gitting up!
 author: Shin
 category: News
 tag: [GitHub, Website, shinkoseki.com, sjinko]
+author: Shin
+location: Lausanne
 ---
 When it comes to setting up a new website, I decided to go with [GitHub Page](https://pages.github.com), a service extension native to the version controlling system.
 
@@ -13,4 +15,4 @@ Passing to GitHub Pages is also a great way to increase my understanding of how 
 
 Have a look at GitHub Pages today, and train your digital literacy in a fun and productive way!
 
-(PS. No, I don’t have any financial interest in GitHub, I am just being enthusiastic)
+PS. No, I don’t have any financial interest in GitHub, I am just being enthusiastic.
