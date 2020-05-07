@@ -1,12 +1,9 @@
 ---
 layout: post
-<<<<<<< HEAD
 title: Gitting up!
 author: Shin
 category: News
 tag: [GitHub, Website, shinkoseki.com, sjinko]
-=======
->>>>>>> 86b0b046dc175388f62403d7e62a99487fdff946
 author: Shin
 location: Lausanne
 ---
@@ -18,8 +15,4 @@ Passing to GitHub Pages is also a great way to increase my understanding of how 
 
 Have a look at GitHub Pages today, and train your digital literacy in a fun and productive way!
 
-<<<<<<< HEAD
 PS. No, I don’t have any financial interest in GitHub, I am just being enthusiastic.
-=======
-(PS. No, I don’t have any financial interest in GitHub, I am just being enthusiastic)
->>>>>>> 86b0b046dc175388f62403d7e62a99487fdff946
