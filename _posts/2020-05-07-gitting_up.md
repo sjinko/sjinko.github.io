@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Gitting up!
 author: Shin
 category: News

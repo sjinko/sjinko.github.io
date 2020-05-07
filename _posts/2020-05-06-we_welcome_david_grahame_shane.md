@@ -1,5 +1,4 @@
 ---
-layout: post
 title: We welcome David Grahame Shane, virtually
 category: Event
 tags: [EPFL, Lab-U, Urbanism, Columbia University, Visit, Covid-19, Zoom, Social Distancing]
