@@ -9,7 +9,7 @@ title: Home
 <ul>
   {% for category in site.categories %}
     <li>
-      <h2>{{ category }}</h2>
+      <a href="#{{ category | downcase | downcase | url_escape | strip | replace: ' ', '-' }}">{{ category | camelcase }} ({{ site.tags[category].size }})</a>
     </li>
   {% endfor %}
 </ul>
