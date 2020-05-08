@@ -3,6 +3,8 @@ baseurl: ""
 collections:
   projects:
     output: true
+  categories:
+    output: true
 
 defaults:
   - scope:
