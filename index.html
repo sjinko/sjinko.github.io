@@ -9,7 +9,7 @@ title: Home
 <ul>
   {% for category in site.categories %}
     <li>
-      <a href="#{{ category | downcase | downcase | url_escape | strip | replace: ' ', '-' }}" </a>
+      <a href="#{{ category | downcase }}" </a>
     </li>
   {% endfor %}
 </ul>
