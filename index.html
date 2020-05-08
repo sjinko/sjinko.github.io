@@ -9,7 +9,7 @@ title: Home
 <ul>
   {% for category in site.categories %}
     <li>
-      <a href="#{{ category | downcase }}" </a>
+      {{ category | downcase }}
     </li>
   {% endfor %}
 </ul>
