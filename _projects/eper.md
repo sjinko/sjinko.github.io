@@ -2,6 +2,9 @@
 short_name: EPER
 name: Espaces pour la réussite scolaire
 name_en: Spaces for Academic Success
+participants_universities: [EPFL, Université de Champagne, École nationale supérieure d’architecture de Strasbourg]
+participants_ngos: [Chôros]
+partners: [French Ministry of Education and Youth, Bureau for Evaluation, Performance and Prospective, Academy of Reims]
 ---
 Educational buildings and mobility emit large share of green gas in France. Their governance therefore offers an important lever to the State in order engage in a sustainable transition of the territory. But how can one balance the planning of educational infrastructure and the individual aspirations of fifteen million students? 
 
