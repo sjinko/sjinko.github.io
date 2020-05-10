@@ -62,4 +62,6 @@ body :visited { color: black; }
 
 .projects li { padding: 10px 0px; }
 
+.project img { display: block; margin-left: auto; margin-right: auto; width: 40%; }
+
 /*# sourceMappingURL=styles.css.map */
