@@ -1,30 +1,48 @@
+.container {
+	background-color:beige;
+	margin: 20px 20px;
+	
+	.header{
+		background-color:grey;
+	}
+}
+
+
+
+
+/* Load custom font */
 @font-face {
   font-family: "myfont";
   src: url("../fonts/NB.otf");
 }
 
+/* Apply custom font */
 body{
   font-family: "myfont";
   font-size: 22px;
 }
 
+/* Vertical span a */
 span.a {
   display: inline-block;
   height: 200px;
 }
 
+/* Vertical span b */
 span.b{
   display: inline-block;
   height: 50px;
 }
 
+/* Float left align text */
 .alignleft {
   float: left;
 }
-
+/* Float right align text */
 .alignright {
   float: right;
 }
+
 
 .current {
   color: green;
@@ -63,7 +81,7 @@ a:hover {
 
 /* Navbar links */
 .topnav a {
-  float: left;
+  float: right;
   color: black;
   text-align: right;
   padding: 14px;

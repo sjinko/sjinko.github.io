@@ -1,13 +1,23 @@
+.container { background-color: beige; margin: 20px 20px; }
+
+.container .header { background-color: grey; }
+
+/* Load custom font */
 @font-face { font-family: "myfont"; src: url("../fonts/NB.otf"); }
 
+/* Apply custom font */
 body { font-family: "myfont"; font-size: 22px; }
 
+/* Vertical span a */
 span.a { display: inline-block; height: 200px; }
 
+/* Vertical span b */
 span.b { display: inline-block; height: 50px; }
 
+/* Float left align text */
 .alignleft { float: left; }
 
+/* Float right align text */
 .alignright { float: right; }
 
 .current { color: green; }
@@ -27,7 +37,7 @@ a:hover { color: red; text-decoration: underline; }
 .topnav { overflow: hidden; background-color: white; }
 
 /* Navbar links */
-.topnav a { float: left; color: black; text-align: right; padding: 14px; padding-left: 0px; text-decoration: none; }
+.topnav a { float: right; color: black; text-align: right; padding: 14px; padding-left: 0px; text-decoration: none; }
 
 /* Links - change color on hover */
 .topnav a:hover { color: grey; }
