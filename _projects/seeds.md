@@ -1,7 +1,6 @@
 ---
-short_name: EPER
-name: Espaces pour la réussite scolaire
-name_en: Spaces for Academic Success
+short_name: Seeds
+name: Spaces for Educational Success
 participants_universities: [EPFL, Université de Champagne, École nationale supérieure d’architecture de Strasbourg]
 participants_ngos: [Chôros]
 partners: [French Ministry of Education and Youth, Bureau for Evaluation, Performance and Prospective, Academy of Reims]
