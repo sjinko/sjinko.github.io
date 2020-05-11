@@ -1,6 +1,6 @@
 ---
 short_name: Deep Edge
-name: Data Empowerment in Ecological Participator Democratic Governance 
+name: Data Empowerment in Ecological Participatory Democratic Governance 
 participants_universities: [EPFL, Université de Champagne, École nationale supérieure d’architecture de Strasbourg]
 participants_ngos: [Chôros]
 partners: [French Ministry of Education and Youth, Bureau for Evaluation, Performance and Prospective, Academy of Reims]
