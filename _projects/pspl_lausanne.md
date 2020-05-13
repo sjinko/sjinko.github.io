@@ -3,6 +3,7 @@ short_name: PSPL
 name: Public Space Public Life Lausanne
 participants_universities: [EPFL]
 partners: [Ville de Lausanne, Gehl]
+funding: [Ville de Lausanne]
 featured_img: /assets/images/cardis-photo-lausanne.png
 alt: Old city of Lausanne
 ---
