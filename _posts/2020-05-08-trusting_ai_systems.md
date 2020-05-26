@@ -5,7 +5,7 @@ category: News
 tag: [AI, Artificial intelligence, Trust, IEEE, Ethics, Committee, Digital Humanities, Data Studies, Data Science, Participatory Design, Policy-Making, Standards, Digitization, Cross-cultural values, Innovation]
 location: Online
 participants_universities: [EPFL, University of Zurich, Melbourne University, New York University, Georgia Institute of Technology, University of Arizona, University of Waikato, Tsinghua University]
-participants_ngo: [IEEE, Montreal AI Ethics Institute, Digital Switzerland, Swiss Digital Initiative]
+participants_ngos: [IEEE, Montreal AI Ethics Institute, Digital Switzerland, Swiss Digital Initiative]
 participants_companies: [IBM, Ethix, Salesforce, Privately]
 ---
 As artificial intelligence systems become omnipresent, we must make sure that the technology is trustworthy. Depending on how and who makes them, AI systems can lead to more bias and discrimination. In order to mitigate this risk, international standards make technology more transparent and accountable to the public. They also help raise awareness of the authorities on the importance to develop sustainable socio-technical systems.

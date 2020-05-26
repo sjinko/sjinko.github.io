@@ -1,7 +1,9 @@
 ---
 layout: default
 ---
-<h1>{{ page.title }}</h1>
-<p>{{ page.date | date_to_string }} - {{ page.location }}</p>
-
-{{ content }}
+<div class="blog-post">
+	<h1>{{ page.title }}</h1>
+	<p>{{ page.date | date_to_string }} - {{ page.location }}</p>
+	{{ content }}
+	<img class="image" src="{{ page.featured_img }}" loading="lazy" alt={{ page.alt }}/>
+</div>
