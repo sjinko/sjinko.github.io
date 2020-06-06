@@ -174,3 +174,26 @@ span.b{
 		width: 40%;
 	}
 }
+
+.blog-post {
+	width: auto;
+	/*column-count:auto;
+	column-width:300px;*/
+	height: auto;
+	padding: 1em;
+	margin: 1.5em auto;
+	/*column-gap: 1.5em;*/
+	box-shadow:
+	    0 5px 10px rgba(0, 0, 0, 0.1),
+	    0 20px 20px rgba(0, 0, 0, 0.05);
+	li {
+	  list-style-type: none;
+	}
+	li h2 {
+		font-size: 22px;
+	}
+	content {
+	width: 600px;
+	margin: 0 auto;
+	}
+}

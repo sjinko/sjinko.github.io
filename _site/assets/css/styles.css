@@ -70,4 +70,12 @@ span.b { display: inline-block; height: 50px; }
 
 .project img { display: block; margin-left: auto; margin-right: auto; width: 40%; }
 
+.blog-post { width: auto; /*column-count:auto; column-width:300px;*/ height: auto; padding: 1em; margin: 1.5em auto; /*column-gap: 1.5em;*/ box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1), 0 20px 20px rgba(0, 0, 0, 0.05); }
+
+.blog-post li { list-style-type: none; }
+
+.blog-post li h2 { font-size: 22px; }
+
+.blog-post content { width: 600px; margin: 0 auto; }
+
 /*# sourceMappingURL=styles.css.map */
