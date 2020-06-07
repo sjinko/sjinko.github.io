@@ -64,10 +64,22 @@ span.b { display: inline-block; height: 50px; }
 
 .image { object-fit: cover; max-width: 100%; max-height: 100%; box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1), 0 20px 20px rgba(0, 0, 0, 0.05); }
 
+.projects { display: block; margin-left: auto; margin-right: auto; width: 90%; max-width: 700px; }
+
 .projects ul { list-style-type: none; margin: 0; padding: 20px 0px; }
 
 .projects li { padding: 10px 0px; }
 
-.project img { display: block; margin-left: auto; margin-right: auto; width: 40%; }
+.project { display: block; margin-left: auto; margin-right: auto; width: 90%; max-width: 700px; }
+
+.content { width: auto; margin: auto; }
+
+.blog-post { width: auto; /*column-count:auto; column-width:300px;*/ height: auto; padding: 1em; margin: 1.5em auto; /*column-gap: 1.5em;*/ box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1), 0 20px 20px rgba(0, 0, 0, 0.05); }
+
+.blog-post li { list-style-type: none; }
+
+.blog-post li h2 { font-size: 22px; }
+
+.blog-post .content { width: 300px; margin: auto; font-size: 44px; }
 
 /*# sourceMappingURL=styles.css.map */

@@ -8,7 +8,8 @@ title: projects
     	<li>
       		<h2><a href="{{ project.url }}">{{ project.short_name }}</a></h2>
       		<h3>{{ project.name }}</h3>
-      		<p>{{ project.content | markdownify }}</p>
+			<img class="image" src="{{ project.featured_img }}" loading="lazy" alt={{ project.alt }}>
+			<p>{{ project.alt | markdownify }}</p>
     	</li>
   	{% endfor %}
 	</ul>
