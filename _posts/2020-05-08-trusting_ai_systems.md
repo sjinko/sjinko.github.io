@@ -1,5 +1,5 @@
 ---
-title: Trusting AI Systems
+title: Trusting AI Systems with IEEE
 author: Shin Alexandre Koseki
 category: News
 tag: [AI, Artificial intelligence, Trust, IEEE, Ethics, Committee, Digital Humanities, Data Studies, Data Science, Participatory Design, Policy-Making, Standards, Digitization, Cross-cultural values, Innovation]
