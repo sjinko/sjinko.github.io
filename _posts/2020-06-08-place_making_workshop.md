@@ -1,7 +1,7 @@
 ---
 title: An European Network to Make Better Public Space 
 author: Shin Alexandre Koseki
-category: Project
+category: Network
 tag: [COST 18204, Dynamics of placemaking, EU, Research, Network, Urban Planning]
 location: Online
 featured_img: /assets/images/pexel-video-public_space.mp4
