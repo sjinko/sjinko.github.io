@@ -5,8 +5,10 @@ participants_universities: [EPFL, Université de Champagne, École nationale sup
 participants_ngos: [Chôros]
 partners: [French Ministry of Education and Youth, Bureau for Evaluation Performance and Prospective, Academy of Reims]
 funding: [French Ministry of Education and Youth]
-featured_img: /assets/images/koseki-map-seed-200512.png
-alt: Home-School distance of middle-school students
+featured_img: /assets/images/sannikova-photo-children_playing_basketball.jpg
+img_credit: Daria Sannikova, 2019, Pexels License
+img_link: https://www.pexels.com/photo/photo-of-children-playing-basketball-2422438/
+alt: France is changing its education system, this time for the best
 ---
 Educational buildings and mobility emit large share of green gas in France. Their governance therefore offers an important lever to the State in order engage in a sustainable transition of the territory. But how can one balance the planning of educational infrastructure and the individual aspirations of fifteen million students? 
 
