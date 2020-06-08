@@ -7,5 +7,5 @@ partners:
 featured_img: /assets/images/google_earth-image-round_fields.jpg
 img_credit: Google Earth, 2015. Public Domain
 img_link: https://www.vice.com/en_us/article/jmv4ng/beef-and-oil-0003456-v19n12
-alt: In the fight for sustainability, citizens most take control of artificial intelligence
+alt: In the battle for sustainability, citizen science opens up to a trustable AI
 ---
