@@ -5,7 +5,7 @@ category: Person
 tag: [AI & Cities, AMLD, Lausanne, EPFL, Cellphone data, Sustainability, Computational Social Science]
 location: Lausanne
 featured_img: /assets/images/ucberkeley-picture-gonzalez.jpg
-all: UC Berkeley Professor Marta Gonzalez
+alt: UC Berkeley Professor Marta Gonzalez
 participants_universities:[EPFL, UC Berkeley]
 ---
 Modeling precisely where and when people chose to travel remains a difficult to achieve. Yet, being able to predict these behaviors at a larger scale may help us reduce the impact of transportation on climate change and increase sustainability across urban systems. Computational Social Science and transportation engineering have developed many tools to simulate large-scale travel. These simulations serve to plan transportation network and orient urban development. To this end, researchers increasingly rely on data they derive from social media applications and mobile phone usage. Yet, if we want urban models of where, when and how people choose to travel, we need representative sample of the entire population and the complete location of each individual.
