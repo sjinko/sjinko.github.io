@@ -9,7 +9,7 @@ guest_lecturers: [Juval Portugali]
 institution: [EPFL, ETH Zürich]
 location: [Lausanne, Switzerland]
 students: [Diana Alvarez-Marin, Francesca Ansaloni, Rosana Aragon-Plaza, Lucia Bordone, Yongming Chen, Sasha N. Cisar, Marija Cvetinovic, Michael R. Doyle, Jens Frankenreite, Charles Yan Fore, Toufic Haidamous, Isabella Loddo, Jingjing Luo, Eliana Martinelli, Shahla Naimi, Silvia Pallotti, Juliu Paulos, Matthew Richmond, David Schildberger, Matthew Skjonsberg, Reinier Verhog]
-featured_img: /assets/images/
+featured_img: /assets/images/bally-poster-anthropology_of_complexity-150320.png
 alt: After the Tsunami, Rebuilding a Landscape for a Safer Future
 participants_universities: [EPFL, ETH Zürich, Chinese University of Hong Kong, TU Delft, Harvard, IHEID, IUAV, King’s College, Oxford]
 funders: [Swissuniversities]
