@@ -1,6 +1,6 @@
 ---
 short_name: Material, Space & Society
-name: Anthropology of Complexity: 
+name: Anthropology of Complexity
 format: International PhD Summer School
 category: Course
 directors: [Shin Alexandre Koseki, Dario Negueruela del Castillo]
