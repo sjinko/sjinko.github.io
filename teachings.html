@@ -6,8 +6,8 @@ title: teaching
 	<ul>
 	{% for project in site.teachings %}
     	<li>
-      		<h2><a href="{{ project.url }}">{{ project.short_name }}</a></h2>
-      		<h3>{{ project.name }}</h3>
+      		<h2><a href="{{ project.url }}">{{ project.title }}</a></h2>
+      		<h3>{{ project.subtitle }}</h3>
 			<img class="image" src="{{ project.featured_img }}" loading="lazy" alt={{ project.alt }}>
 			<p>{{ project.alt | markdownify }}</p>
     	</li>

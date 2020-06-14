@@ -1,15 +1,17 @@
 ---
-short_name: Tabula Sublimis Sendai
-name: Urban and landscape design studio
+title: Tabula Sublimis Sendai
+subtitle: Urban and landscape design studio
+year: 2012
 category: Studio
-director: [Nanako Umemoto]
+direction: [Nanako Umemoto]
 assistants: [Michael Overby, Shin Alexandre Koseki]
-institution: [EPFL]
+institutions: [EPFL]
 location: [Tohoku, Japan]
 students: [Max Hart Nibbrig, Martha Luise Müller, Edoardo Cascioli, Anael Poveda, Alisa Dunning, Hartwell Michael, Antony Estevez, Boris Popma, Sabrina Scherwey, Julien Ngao, Aurélie Richard, Julien Prudhomme, Guillaume Pfefferle, Agnes Collaud, Matthieu Delacrétaz]
 featured_img: /assets/images/yoshitake-photo-the_wave.jpg
+img_credit: Ryo Yoshitake, Unsplash
 alt: After the Tsunami, Rebuilding a Landscape for a Safer Future
-participants_universities: EPFL, University of Washington in St Louis, Princeton, Tokyo University
+participants_universities: [EPFL, University of Washington in St Louis, Princeton, Tokyo University]
 ---
 
 The coastal area in the city of Sendai was hugely damaged by the 3.11 Tsunami. As a result there is a discussion about turning the damaged land into a public park considering the future risks and the difficulty of returning it back as residential area.
@@ -68,13 +70,3 @@ Prior to the mid-review, the students will begin the final task of coupling deve
 Tohoku has suggested that the project site should function as a public park that is accessible to the citizens followings areas of development (by providing a large open space along the coastline, the site will provide places where people can gather and rest, and reduce the stress from living and working in the urban environment)  and function as a buffer zone to reduce the impact of tsunami (the site will also function to reduce the energy of tsunami in order to protect the inland farmland from disaster as much as possible). The geographical features, including a hinterland to the industrial port, wetlands, a beach, a lost fishing village and a forest, have been suggested as areas for development of a sewage treatment plan, a memorial and recreation area and housing. Our ethic will be to incorporate these requirements into a more comprehensive vision – with new settlements and a self-sustaining economy-- that will not only address the necessities of the specified program, but also attract the displaced population back to the region.
 
 *Excerpt from the syllabus*
-
---
-
-Graduate urban and landscape design studio
-
-EPFL, 2012
-
-Studio directors: Prof. Nanako Umemoto & Michael Overby
-
-Assistant: Shin Alexandre Koseki

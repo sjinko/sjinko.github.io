@@ -12,6 +12,8 @@ body link:active { color: blue; }
 
 body :visited { color: black; }
 
+.note { font-size: 12px; }
+
 /* Vertical span a */
 span.a { display: inline-block; height: 200px; }
 
