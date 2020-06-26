@@ -16,4 +16,4 @@ The effect of spatial design and planning on dynamics of political polarization 
 Lecture presentation deck:
 Koseki, Shin Alexandre. (2020, June). Spatial Design and Democracy: Mapping the Intersect of Values in Urban Space. Zenodo. [http://doi.org/10.5281/zenodo.3909467](http://doi.org/10.5281/zenodo.3909467)
 
-[*Adyacencias* lecture series at the Universidad Torcuato di Tella](https://www.utdt.edu/ver_evento_agenda.php?id_evento_agenda=7225&id_item_menu=449)
+[*Adyacencias* lecture series at the Universidad Torcuato di Tella](https://www.utdt.edu/ver_contenido.php?id_contenido=16551&id_item_menu=27292)
