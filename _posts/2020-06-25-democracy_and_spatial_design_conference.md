@@ -1,7 +1,7 @@
 ---
 title: Spatial Design & Democracy. Mapping the Intersection of Values in Urban Space
 author: Shin Alexandre Koseki
-category: Event
+category: Invited lecture
 tag: [Switzerland, Design, Architecture, Urban Planning, Urban Design, Spatial Planning, Values, Society, Le Corbusier, Gehl, Research, DyAM, Polarizations, Votes, Elections, Networks, Data Visualization, Network Science]
 location: Buenos Aires, Argentina
 participants_universities: Universidad Torcuato di Tella
