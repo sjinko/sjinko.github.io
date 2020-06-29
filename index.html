@@ -10,7 +10,7 @@ title: Home
 				<img class="image" src="{{ post.featured_img }}" loading="lazy" alt={{ page.alt }}>
 				<div class=date>
 					{{ post.date | date:"%y.%m.%d" }}
-					{{ post.catgory "," post.location }}
+					{{ post.catgory }}, {{ post.location }}
 			  </div>
 				<h2><a href="{{ post.url }}">{{ post.title }}</a></h2> 
 				{{ post.excerpt }}
