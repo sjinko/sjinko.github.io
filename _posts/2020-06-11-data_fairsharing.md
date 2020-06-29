@@ -1,7 +1,7 @@
 ---
 title: To improve spatial quality and sustainabilty, we create digital standards
 author: Shin Alexandre Koseki
-category: Workshop participation
+category: Collaborative workshop
 tag: [Data, FAIR, Transdisciplinary]
 location: Oxford
 featured_img: /assets/images/rafi-photo-public_space.jpg
