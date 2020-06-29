@@ -1,9 +1,9 @@
 ---
 title: AI Trust at IEEE
 author: Shin Alexandre Koseki
-category: News
+category: Workshop participation
 tag: [AI, Artificial intelligence, Trust, IEEE, Ethics, Committee, Digital Humanities, Data Studies, Data Science, Participatory Design, Policy-Making, Standards, Digitization, Cross-cultural values, Innovation]
-location: Online
+location: New York City / Online
 participants_universities: [EPFL, University of Zurich, Melbourne University, New York University, Georgia Institute of Technology, University of Arizona, University of Waikato, Tsinghua University]
 participants_ngos: [IEEE, Montreal AI Ethics Institute, Digital Switzerland, Swiss Digital Initiative]
 participants_companies: [IBM, Ethix, Salesforce, Privately]

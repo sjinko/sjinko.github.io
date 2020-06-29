@@ -1,9 +1,9 @@
 ---
 title: AI & Cities. Sustainability, Trust and Citizenship
 author: Shin Alexandre Koseki
-category: Event
+category: Conference track organization
 tags: [AI, Artificial Intelligence, Machine Learning, Governance, Urban Planning, Cities]
-location: EPFL
+location: Lausanne
 participants_universities: [EPFL, University of California in Berkeley, University of Zurich, University of Georgia, University College London, The Turing Institute, ETH Zurich, University of Leeds, University of Bristol, New York University]
 participants_ngos: [City of Chicago, The World Bank]
 participants_companies: [Google AI, Carto, POSMO, Flying Lab Tanzania, ESRI, FAIRTIQ, Neptume.ml, New Light Technology]

@@ -1,9 +1,9 @@
 ---
 title: Digital Future Network Day
 author: Shin Alexandre Koseki
-category: Event
-tag: [Covid-19]
-location: EPFL
+category: Conference organization
+tag: [SNSF, Swiss National Science Foundation, Switzerland, Research, Digital Society, Digital Transition]
+location: Lausanne
 participants_universities: [EPFL, University of Zurich, University of Bern, University of Basel, University of Fribourg, University of Lucern, University of Lausanne, Zurich University of Applied Sciences, University of Applied Sciences Bern, ETH Zurich, Zurich University of Teacher Education, University of Applied Sciences of East Switzerland, Lucern University of Applied Sciences, University of St Gall, Graduate Institute]
 participants_ngos: [Swiss National Science Foundation]
 featured_img: /assets/images/koseki-poster-digital_future-191204.png

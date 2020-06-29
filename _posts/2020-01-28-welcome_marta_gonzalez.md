@@ -1,7 +1,7 @@
 ---
 title: Marta Gonzalez at AI and Cities 
 author: Shin Alexandre Koseki
-category: Person
+category: Distinguish visitor
 tag: [AI & Cities, AMLD, Lausanne, EPFL, Cellphone data, Sustainability, Computational Social Science]
 location: Lausanne
 featured_img: /assets/images/ucberkeley-picture-gonzalez.jpg

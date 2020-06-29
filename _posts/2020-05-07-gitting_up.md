@@ -1,10 +1,10 @@
 ---
 title: Gitting up!
 author: Shin
-category: News
+category: Launching something
 tag: [GitHub, Website, shinkoseki.com, sjinko]
 author: Shin
-location: GitHub
+location: Lausanne
 featured_img: /assets/images/wifflegif-video-well_here_we_are.gif
 alt: Down the Rabbit Hole
 ---

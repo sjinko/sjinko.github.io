@@ -1,8 +1,8 @@
 ---
 title: We welcome David Grahame Shane, virtually
-category: Event
+category: Distinguish visitor
 tags: [EPFL, Lab-U, Urbanism, Columbia University, Visit, Covid-19, Zoom, Social Distancing]
-location: Lausanne
+location: Lausanne / Online
 partiticipants_universities: [EPFL, Columbia University in the City New York]
 featured_img: /assets/images/rudolph-drawing-manhattan_express_way-1970.jpg
 alt: The Megalopolis shown by Rudolph’s Manhattan Express Way

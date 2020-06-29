@@ -1,9 +1,9 @@
 ---
 title: AI & Cities. Risks and Opportunities for Business, Governance and Society
 author: Shin Alexandre Koseki
-category: Event
+category: Conference track organization
 tags: [AI, Artificial Intelligence, Machine Learning, Governance, Urban Planning, Cities]
-location: EPFL
+location: Lausanne
 participants_universities: [EPFL, Harvard University, MIT, ETH Zurich, University of Warwick]
 participants_ngos: [The World Bank, Artificial Intelligence Impact Alliance]
 participants_companies: [Google DeepMind, Teralytics, Geospin, Swisscom]

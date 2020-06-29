@@ -1,9 +1,9 @@
 ---
 title: To improve spatial quality and sustainabilty, we create digital standards
 author: Shin Alexandre Koseki
-category: Workshop
+category: Workshop participation
 tag: [Data, FAIR, Transdisciplinary]
-location: Online
+location: Oxford
 featured_img: /assets/images/rafi-photo-public_space.jpg
 credit: Ahnaf Tahsin Rafi
 alt: Public space in Dhaka, Bangladesh
