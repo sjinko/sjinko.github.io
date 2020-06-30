@@ -12,3 +12,6 @@ img_credit: Moonlandingwasfaked on Steamcommunity
 alt: Vector field
 ---
 This workshop was organized by EPFL laboratory for Human-Environment Relations in Urban Systems (HERUS).
+
+
+assets/images/moonlandingwasfaked-gif-200630.gif
