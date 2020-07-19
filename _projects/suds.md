@@ -1,6 +1,6 @@
 ---
 short_name: Suds
-name: Spatial Unfolding of Democratic Systems
+name: Spatial Unfolding of Democratic Sustainability
 participants_universities: [EPFL, University of Oxford, National University of Singapore, ETH Singapore]
 participants_ngos:
 partners:
