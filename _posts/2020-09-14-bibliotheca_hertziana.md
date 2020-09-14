@@ -1,7 +1,7 @@
 ---
-title: Lauching new digital humanities projects
+title: New research project with Bibliotheca Hertziana
 author: Shin Alexandre Koseki
-category: news
+category: Research collaboration
 tag: [art history, rome, space, maps, archives]
 location: Rome
 participants_universities: UZH, DVS, Max-Planck Society, Bibliotheca Hertziana
