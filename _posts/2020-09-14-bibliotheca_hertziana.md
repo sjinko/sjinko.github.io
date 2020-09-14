@@ -7,7 +7,7 @@ location: Rome
 participants_universities: UZH, DVS, Max-Planck Society, Bibliotheca Hertziana
 participants_ngos: 
 participants_companies: 
-featured_img: /assets/images/scringi-picture-bibliotheca_hertziana.jpg.jpg
+featured_img: /assets/images/scringi-picture-bibliotheca_hertziana.jpg
 img_credit: Anna Scringi
 alt: Entry of the Max-Planck Institute for Art History – Bibliotheca Hertziana 
 ---
