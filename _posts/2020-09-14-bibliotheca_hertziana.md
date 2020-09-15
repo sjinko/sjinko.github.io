@@ -1,5 +1,5 @@
 ---
-title: For Planning the Future of Cities, the Past Must be Digital 
+title: Planning the Future of Cities from Their Digital Past 
 author: Shin Alexandre Koseki
 category: Research project
 tag: [art history, rome, space, maps, archives]
