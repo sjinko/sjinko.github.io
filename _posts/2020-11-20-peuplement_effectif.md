@@ -1,9 +1,9 @@
 ---
-title: Measurer le peuplement effectif des lieux
+title: Mesurer le peuplement effectif des lieux
 author: Shin Alexandre Koseki
-category: Research proposal
+category: Methodology
 tag: [methodology, research, theory, space, geography, method, digital traces, spatial justice, population, place]
-location: Global
+location: Development
 participants_universities: [Université de Montréal, Polytechnique des Hauts de France, Université d’Amiens]
 participants_ngos: [Chôros]
 participants_companies: []
