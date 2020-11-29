@@ -7,7 +7,7 @@ location: Zurich
 participants_universities: ETH Zurich
 participants_ngos:
 participants_companies: 
-featured_img: /assets/images/schwarz-picture-zurich.jpg.jpg
+featured_img: /assets/images/schwarz-picture-zurich.jpg
 img_credit: C. Schwarz
 alt: Political Demonstration in Zürich
 ---
