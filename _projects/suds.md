@@ -5,10 +5,10 @@ participants_universities: [EPFL, University of Oxford, National University of S
 participants_ngos:
 partners:
 funding: [EPFL, Swiss National Science Foundation, ETH Zurich]
-featured_img: /assets/images/
+featured_img: /assets/images/wikicommon-image-apotheosis_of_democracy.jpg
 img_credit:
 img_link:
-alt: In inventing new way to maps voters behaviors, we might just save democracy from political polarization
+alt: How mapping political diversity in and around cities might just save democracy from political polarisation
 ---
 Our lack of tools to assess levels and dynamics of political polarization might just be one of the biggest threat to democracy. Polarization occurs when individuals or groups adopt increasingly divergent political views over a long period of time. It is a highly complex phenomenon, which is hard to detect and to address in the general population with existing data and methods. 
 
