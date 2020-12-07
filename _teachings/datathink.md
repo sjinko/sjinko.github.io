@@ -26,8 +26,6 @@ In joining Data Think!, participants acquire the necessary skills to address fut
 
 ***
 
-# Thinking research with data
-
 In a previous edition of Data Think! Emeritus Professor and Philosopher Walther Zimmerli
 reminded us that “data is just noise from which we make sense”, the researcher’s active act of creation. The current abundance of data therefore results from a sustained effort to make sense of the world. With other actors who produce and analyze data, scientists share therefore the great responsibility of defining the social understanding of the world we live in. Making sense of the world is not a mundane exercise, it is, by definition, the core mission of the scientific odyssey.
 
