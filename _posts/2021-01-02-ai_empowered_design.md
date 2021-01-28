@@ -15,6 +15,7 @@ In order to make urban design more incluse, AI might just have the right tools!
 
 ***
 
-<script src="https://raw.githubusercontent.com/sjinko/ai_empowered_design/master/koseki-manuscript-artificial_design-20201022.md"></script>
+<script src="https://github.com/sjinko/ai_empowered_design/blob/master/koseki-manuscript-artificial_design-20201022.md"></script>
+
 
 
